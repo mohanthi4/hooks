@@ -1,1 +1,2 @@
-echo"commiting"
+#!/bin/sh
+echo "commiting"
